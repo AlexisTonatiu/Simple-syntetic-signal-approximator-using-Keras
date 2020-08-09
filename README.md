@@ -16,4 +16,5 @@ The output layer are 4 neurons since what the NN is expected to do is to approxi
 
 ![alt text](https://github.com/AlexisTonatiu/Simple-syntetic-signal-approximator-using-Keras/blob/master/gensenales.png?raw=true)
 
+As you can see the results aren't so bad. 
 This can be improved tho.
